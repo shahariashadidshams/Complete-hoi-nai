@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 40px;
+}
+p {
+    font-size: 30px;
+}
+.first-section {
+    width: 40%;
+    padding-left: 5%;
+    margin-left: 2%;
+    float: left;
+}
+.first-section img {
+    width: 70%;
+}
+.write-section {
+    margin-top: 20px;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, tomato, salmon);
+    color: white;
+    padding: 20px 50px;
+    border-radius: 10px;
+}
+.color-b2 {
+    color: tomato;
+}
+.color-b1 {
+    color: gray;
+}
+.second-section {
+    width: 30%;
+}
+
+.footer {
+    width: 20%;
+    padding-left: 5%;
+    margin-left: 2%;
+    float: left;
+}
+.footer img {
+    width: 100%;
+}
+section {
+    height: 500px;
+}
